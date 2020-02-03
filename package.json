@@ -16,6 +16,10 @@
     "scripts": {
         "install": "node checkbuild.js"
     },
+    "repository": {
+    	"type": "git",
+    	"url": "https://git.dev.tencent.com/xiaoxiaoshuoljg/hana-client.git"
+  	},
     "version": "2.4.167",
     "license": "SEE LICENSE IN developer-license-3.1.txt"
 }
