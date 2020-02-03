@@ -1,1 +1,21 @@
-{"author":{"name":"SAP"},"bundleDependencies":false,"dependencies":{"debug":"3.1.0"},"deprecated":false,"description":"HANA JavaScript Driver.","engines":{"node":">=4.0.0"},"main":"./lib/index","name":"@sap/hana-client","scripts":{"install":"node checkbuild.js"},"version":"2.4.167","license":"SEE LICENSE IN developer-license-3.1.txt"}
+{
+    "author": {
+        "name": "SAP"
+    },
+    "bundleDependencies": false,
+    "dependencies": {
+        "debug": "3.1.0"
+    },
+    "deprecated": false,
+    "description": "HANA JavaScript Driver.",
+    "engines": {
+        "node": ">=4.0.0"
+    },
+    "main": "./lib/index",
+    "name": "@sap/hana-client",
+    "scripts": {
+        "install": "node checkbuild.js"
+    },
+    "version": "2.4.167",
+    "license": "SEE LICENSE IN developer-license-3.1.txt"
+}
