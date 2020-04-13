@@ -6,7 +6,7 @@
     "dependencies": {
         "debug": "3.1.0"
     },
-    "private":true,
+    "private": false,
     "deprecated": false,
     "description": "HANA JavaScript Driver.",
     "engines": {
